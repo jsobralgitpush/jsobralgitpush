@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 ## I'm learning
 <img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />                    
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsobralgitpush&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jsobralgitpush&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Contacts:
 <div>
 <a href = "mailto:jose.sobral95@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
