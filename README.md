@@ -1,5 +1,4 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is José Sobral and my nickname is jsobralgitpush!
 
 Here are some ideas to get you started:
 
@@ -8,8 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine Learning
 - 💬 Ask me about Tests
 - 📫 How to reach me: jose.sobral95@gmail.com
-
-
 
 ## Tools
 
