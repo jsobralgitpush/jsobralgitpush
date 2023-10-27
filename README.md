@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Reserva INK
+- 🔭 I’m currently working on Donat Hospital
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on Machine Learning
 - 💬 Ask me about Tests
