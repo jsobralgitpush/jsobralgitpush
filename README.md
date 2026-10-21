@@ -1,22 +1,30 @@
-# 👋 Hello! Welcome to my Github profile.
+# Hi, I'm José Sobral 👋
 
-Here are some ideas to get you started:
+**Software Engineer · Backend & AI Systems**
 
-- 🔭 I’m currently working on Donato Hospital
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on Machine Learning
-- 💬 Ask me about Tests
-- 📫 How to reach me: jose.sobral95@gmail.com
+I'm a software engineer based in Rio de Janeiro, Brazil, with 7 years of experience building and maintaining production software, including technical leadership in an international team.
 
-## Tools
+At [RecruitRobin](https://recruitrobin.com/), I work on recruitment software, with a focus on backend services, ATS integrations, email and calendar workflows, browser automation, and production reliability.
 
-<img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" /> <img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />          
+My current focus is AI engineering: building agents and LLM workflows with explicit state, reliable tool execution, observability, and evaluation.
 
-## I'm learning
-<img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /><img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />                    
+## What I work with
 
-## Contacts:
-<div>
-<a href = "mailto:jose.sobral95@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jos%C3%A9-sobral-80a6aa119" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+- **Backend:** Python, Django, FastAPI, Ruby on Rails
+- **Data:** PostgreSQL, Elasticsearch
+- **Integrations & automation:** external APIs, ATS platforms, email/calendar services, browser extensions
+- **Engineering:** Docker, CI/CD, automated testing, monitoring, and production debugging
+
+## Building
+
+[**Agent Runtime**](https://github.com/jsobralgitpush/agent-runtime) — a workflow engine for LLM and tool execution, built with FastAPI and PostgreSQL. It includes durable state, retries, timeouts, idempotency, and step-level tracking of latency, tokens, cost, and errors.
+
+I'm exploring how to make AI workflows easier to inspect, evaluate, and operate reliably.
+
+## Beyond software
+
+I also do theater, sing, and dance, and I've performed in the circus. Making things is a big part of my life, on and off the screen.
+
+## Get in touch
+
+[Email](mailto:jose.sobral95@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-sobral-80a6aa119/)
