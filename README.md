@@ -21,10 +21,6 @@ My current focus is AI engineering: building agents and LLM workflows with expli
 
 I'm exploring how to make AI workflows easier to inspect, evaluate, and operate reliably.
 
-## Beyond software
-
-I also do theater, sing, and dance, and I've performed in the circus. Making things is a big part of my life, on and off the screen.
-
 ## Get in touch
 
 [Email](mailto:jose.sobral95@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-sobral-80a6aa119/)
